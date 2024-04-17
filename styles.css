@@ -41,9 +41,9 @@ h2{
 }
 
 #main1{
-    margin-top: 100px;
-    width: 1100px;
-    height: 580px;
+    margin-top: 7%;
+    width: 68%;
+    height: 76%;
     background-color: rgb(23, 23, 23);
     position: absolute;
     left: 50%;
@@ -54,18 +54,18 @@ h2{
  
 #img{
     background-color: rgb(127, 42, 218);
-    width: 530px;
-    height: 530px;
-    margin-top: 24px;
-    margin-left: 30px;
+    width: 47%;
+    height: 86%;
+    margin-top: 3.5%;
+    margin-left: 3%;
     border-radius: 4px;
     border: 1px solid rgba(94, 94, 94, 1);
 }
 
 #quemsou{    
     position: absolute;
-    margin-top: -470px;
-    margin-left: 600px;
+    margin-top: -41%;
+    margin-left: 52%;
     font-size: 18px;
     color: rgb(127,42,218);
     font-family: sans-serif;
@@ -74,8 +74,8 @@ h2{
 
 #nome{
     position: absolute;
-    margin-top: -430px;
-    margin-left: 600px;
+    margin-top: -38%;
+    margin-left: 52%;
     font-size: 30px;
     color: rgb(255, 255, 255);
     font-family: serif;
@@ -84,8 +84,8 @@ h2{
 
 #profissao{
     position: absolute;
-    margin-top: -380px;
-    margin-left: 600px;
+    margin-top: -35%;
+    margin-left: 52%;
     font-size: 18px;
     color: rgb(255, 255, 255);
     font-family: serif;
@@ -94,8 +94,8 @@ h2{
 
 #texto{
     position: absolute;
-    margin-top: -340px;
-    margin-left: 600px;
+    margin-top: -30%;
+    margin-left: 52%;
     font-size: 16px;
     color: rgb(255, 255, 255);
     padding-right: 25px;
@@ -105,16 +105,16 @@ h2{
 
 #main2{
     width: 100%;
-    height: 450px;
-    margin-top: 750px;
+    height: 50%;
+    margin-top: 45%;
     position: absolute;
 }
 
 #conhecimento{
     position: absolute;
-    margin-top: 20px;
+    margin-top: 1%;
     font-size: 45px;
-    margin-left: 295px;
+    margin-left: 20%;
     font-family: serif;
     letter-spacing: 2px;    
 }
@@ -123,17 +123,17 @@ h2{
     letter-spacing: 1px;
     font-family: sans-serif;
     color: rgb(255, 255, 255);
-    width: 500px;
+    width: 30%;
     position: absolute;
-    margin-top: 100px;
-    margin-left: 295px;
+    margin-top: 5%;
+    margin-left: 17%;
     font-size: 16px;
 }
 
 #projetos{
     color: white;
     position: absolute;
-    margin-top: 1150px;
+    margin-top: 70%;
     font-size: 50px;
     font-family: serif;
     margin-left: 50%;
@@ -142,40 +142,40 @@ h2{
 
 .projetos{
     background-color: rgb(23, 23, 23);
-    width: 300px;
-    height: 180px;
+    width: 18.5%;
+    height: 25%;
     position: absolute;
-    margin-top: 1300px;
+    margin-top: 76.6%;
     border: 1px solid rgba(94, 94, 94, 0.5);
     border-radius: 4px;
 }
 
 .projetos:hover{
     border: 3px solid rgb(127, 42, 218);
-    height: 177px;
-    width: 297px; 
+    height: 24.8%;
+    width: 18.3%; 
 }
 
 #projeto1{
-    margin-left: 250px;
+    margin-left: 20.7%;
 }
 #projeto2{
-    margin-left: 575px;
+    margin-left: 39.8%;
 }
 #projeto3{
-    margin-left: 900px;
+    margin-left: 58.9%;
 }
 #projeto4{
-    margin-left: 250px;
-    margin-top: 1503px;
+    margin-left: 20.7%;
+    margin-top: 88.6%;
 }
 #projeto5{
-    margin-left: 575px;
-    margin-top: 1503px;
+    margin-left: 39.8%;
+    margin-top: 88.6%;
 }
 #projeto6{ 
-    margin-left: 900px;
-    margin-top: 1503px;
+    margin-left: 58.9%;
+    margin-top: 88.6%;
 }
 
 ::-webkit-scrollbar{
@@ -265,49 +265,49 @@ img{
 #react2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 1100px;
+    margin-left: 1150px;
 }
 
 #boots2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 1000px;
+    margin-left: 1050px;
 }
 
 #tail2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 900px;
+    margin-left: 950px;
 }
 
 #git2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 1200px;
+    margin-left: 1250px;
 }
 
 #github2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 1100px;
+    margin-left: 1150px;
 }
 
 #js2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 1000px;
+    margin-left: 1050px;
 }
 
 #css2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 900px;
+    margin-left: 950px;
 }
 
 #html2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 800px;
+    margin-left: 850px;
 }
 
 .construcao{
