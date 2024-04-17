@@ -114,7 +114,7 @@ h2{
     position: absolute;
     margin-top: 20px;
     font-size: 45px;
-    margin-left: 215px;
+    margin-left: 295px;
     font-family: serif;
     letter-spacing: 2px;    
 }
@@ -126,7 +126,7 @@ h2{
     width: 500px;
     position: absolute;
     margin-top: 100px;
-    margin-left: 215px;
+    margin-left: 295px;
     font-size: 16px;
 }
 
@@ -265,49 +265,49 @@ img{
 #react2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 1050px;
+    margin-left: 1100px;
 }
 
 #boots2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 950px;
+    margin-left: 1000px;
 }
 
 #tail2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 850px;
+    margin-left: 900px;
 }
 
 #git2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 1150px;
+    margin-left: 1200px;
 }
 
 #github2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 1050px;
+    margin-left: 1100px;
 }
 
 #js2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 950px;
+    margin-left: 1000px;
 }
 
 #css2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 850px;
+    margin-left: 900px;
 }
 
 #html2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 750px;
+    margin-left: 800px;
 }
 
 .construcao{
