@@ -8,7 +8,7 @@ header{
     width: 1500px;
     height: 40px;
     background-color: rgb(18, 18, 18);
-    left: 850px;
+    left: 50%;
     transform: translate(-50%);
     padding-top: 27px;
     padding-bottom: 27px;
@@ -104,19 +104,21 @@ h2{
 } 
 
 #main2{
-    width: 1600px;
+    width: 1100px;
     height: 500px;
     margin-top: 790px;
     position: absolute;
+    margin-left: 50%;
+    transform: translate(-50%);
 }
 
 #conhecimento{
     position: absolute;
-    margin-top: 1%;
+    margin-top: 10px;
     font-size: 45px;
-    margin-left: 310px;
     font-family: serif;
-    letter-spacing: 2px;    
+    letter-spacing: 2px;   
+    margin-left: 20px; 
 }
 
 .pconhecimento{
@@ -126,17 +128,18 @@ h2{
     width: 500px;
     position: absolute;
     margin-top: 80px;
-    margin-left: 270px;
+    margin-left: 10px;
     font-size: 16px;
 }
 
 #projetos{
     color: white;
     position: absolute;
-    margin-top: 1150px;
+    margin-top: 50px;
     font-size: 50px;
     font-family: serif;
     margin-left: 850px;
+    margin-left: 50%;
     transform: translate(-50%);
 }
 
@@ -145,7 +148,7 @@ h2{
     width: 315px;
     height: 195px;
     position: absolute;
-    margin-top: 1300px;
+    margin-top: 150px;
     border: 1px solid rgba(94, 94, 94, 0.5);
     border-radius: 4px;
 }
@@ -157,25 +160,25 @@ h2{
 }
 
 #projeto1{
-    margin-left: 352px;
+    margin-left: 60px;
 }
 #projeto2{
-    margin-left: 677px;
+    margin-left: 390px;
 }
 #projeto3{
-    margin-left: 1003px;
+    margin-left: 720px;
 }
 #projeto4{
-    margin-left: 352px;
-    margin-top: 1505px;
+    margin-left: 60px;
+    margin-top: 360px;
 }
 #projeto5{
-    margin-left: 677px;
-    margin-top: 1505px;
+    margin-left: 390px;
+    margin-top: 360px;
 }
 #projeto6{ 
-    margin-left: 1003px;
-    margin-top: 1505px;
+    margin-left: 720px;
+    margin-top: 360px;
 }
 
 ::-webkit-scrollbar{
@@ -265,49 +268,49 @@ img{
 #react2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 1150px;
+    margin-left: 900px;
 }
 
 #boots2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 1050px;
+    margin-left: 800px;
 }
 
 #tail2{
     width: 90px;
     margin-top: 140px;
-    margin-left: 950px;
+    margin-left: 700px;
 }
 
 #git2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 1250px;
+    margin-left: 1000px;
 }
 
 #github2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 1150px;
+    margin-left: 900px;
 }
 
 #js2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 1050px;
+    margin-left: 800px;
 }
 
 #css2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 950px;
+    margin-left: 700px;
 }
 
 #html2{
     width: 90px;
     margin-top: 40px;
-    margin-left: 850px;
+    margin-left: 600px;
 }
 
 .construcao{
@@ -367,7 +370,16 @@ img{
     border: 1px solid rgb(127, 42, 218);
 }
 
-@media (max-width: 480px) {
+#main3 {
+    width: 1100px;
+    height: 700px;
+    position: absolute;
+    margin-top: 1200px;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+@media (max-width: 500px) {
 
     body{
         background-color: rgb(18, 18, 18);
@@ -386,7 +398,7 @@ img{
     
     #main1{
         margin-top: 60px;
-        width: 400px;
+        width: 310px;
         height: 670px;
         background-color: rgb(23, 23, 23);
         position: absolute;
